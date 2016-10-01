@@ -1,0 +1,6 @@
+\select@language {brazilian}
+\contentsline {section}{Lista de Figuras}{2}{section*.4}
+\contentsline {section}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o aos Projetos PCB}{3}{section.1}
+\contentsline {section}{\numberline {2}Montagem do Esquem\IeC {\'a}tico Para a Confec\IeC {\c c}\IeC {\~a}o PCB}{5}{section.2}
+\contentsline {section}{\numberline {3}Ares}{7}{section.3}
+\contentsline {section}{\numberline {4}Ap\IeC {\^e}ndice:Programa para Simula\IeC {\c c}\IeC {\~a}o do Motor de Passo}{9}{section.4}
