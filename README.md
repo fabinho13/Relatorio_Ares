@@ -1,4 +1,3 @@
 # Relatorio_Ares
-Primeiro commit
 
-This document theacthing how to make one PCB board using proteus software on VSM technology.
+Este documento visa dar ênfase no ensino da tecnologia VSM fazendo uso da simulação e construção de uma placa que comanda um motor de passo.
